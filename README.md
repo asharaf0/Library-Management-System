@@ -1,2 +1,3 @@
 # Library-Management-System
-![Screenshot 2024-10-22 195813](https://github.com/user-attachments/assets/078ef8ca-860c-48cf-9535-8ffde11b5064)
+
+![Screenshot 2024-10-22 195728](https://github.com/user-attachments/assets/05e5ac83-0988-442d-9093-c2219bc86e87)
